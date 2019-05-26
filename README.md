@@ -1,2 +1,2 @@
 # myshell
-shell assugnment
+shell assignment
